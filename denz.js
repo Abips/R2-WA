@@ -63,14 +63,14 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:デ ニ ス\n'
+            + 'FN:Revan Ganteng\n'
             + 'ORG:Co Owner R2 Bot;\n'
             + 'TEL;type=CELL;type=VOICE;waid=6281930239749:+62 819-3023-9749\n'
             + 'END:VCARD'
        
 const vcard1 = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Caca Cans\n'
+            + 'FN:Randi Ganteng\n'
             + 'ORG:Owner R2 Bot;\n'
             + 'TEL;type=CELL;type=VOICE;waid=628563243961:+62 856-3243-961\n'
             + 'END:VCARD'
